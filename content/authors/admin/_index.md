@@ -29,7 +29,7 @@ education:
   courses:
   - course: MS in Data Science
     institution: University of British Columbia
-    year: 2012
+    year: 2019
   - course: B.Tech in Mining Engineering
     institution: Indian Institute of Technology - Kharagpur
     year: 2012
